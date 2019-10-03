@@ -6,10 +6,6 @@ body {
     overflow: hide;
 }
 
-a {
-    color: greenyellow;
-}
-
 canvas {
     background: #0f0f0f;
 }
